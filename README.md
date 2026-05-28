@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**sudeshnavallamkondu/sudeshnavallamkondu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Hi there 👋 I'm Sudeshna
 
 🚀 Data Engineer | Building Scalable Data Pipelines | Exploring AI-driven Workflows
@@ -64,8 +62,3 @@ OpenAI • LangChain • HuggingFace • Vector Databases • MCP • ADK
 ## 📫 Connect With Me
 
 * 💼 LinkedIn : https://www.linkedin.com/in/sudeshna674/
-
----
-
-
--->
