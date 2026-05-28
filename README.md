@@ -35,7 +35,7 @@ I’m passionate about building scalable data engineering solutions, designing e
 
 ### 💻 Languages
 
-Python • SQL • Java • Scala • Bash
+Python • SQL • Java • Bash
 
 ### ☁️ Cloud & DevOps
 
